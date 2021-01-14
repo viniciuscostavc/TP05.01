@@ -1,0 +1,26 @@
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade06\projMedicamento\projMedicamento\bin\Debug\netcoreapp3.1\projMedicamento.exe
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade06\projMedicamento\projMedicamento\bin\Debug\netcoreapp3.1\projMedicamento.deps.json
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade06\projMedicamento\projMedicamento\bin\Debug\netcoreapp3.1\projMedicamento.runtimeconfig.json
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade06\projMedicamento\projMedicamento\bin\Debug\netcoreapp3.1\projMedicamento.runtimeconfig.dev.json
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade06\projMedicamento\projMedicamento\bin\Debug\netcoreapp3.1\projMedicamento.dll
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade06\projMedicamento\projMedicamento\bin\Debug\netcoreapp3.1\projMedicamento.pdb
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade06\projMedicamento\projMedicamento\obj\Debug\netcoreapp3.1\projMedicamento.csprojAssemblyReference.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade06\projMedicamento\projMedicamento\obj\Debug\netcoreapp3.1\projMedicamento.AssemblyInfoInputs.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade06\projMedicamento\projMedicamento\obj\Debug\netcoreapp3.1\projMedicamento.AssemblyInfo.cs
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade06\projMedicamento\projMedicamento\obj\Debug\netcoreapp3.1\projMedicamento.csproj.CoreCompileInputs.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade06\projMedicamento\projMedicamento\obj\Debug\netcoreapp3.1\projMedicamento.dll
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade06\projMedicamento\projMedicamento\obj\Debug\netcoreapp3.1\projMedicamento.pdb
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\Atividade06\projMedicamento\projMedicamento\obj\Debug\netcoreapp3.1\projMedicamento.genruntimeconfig.cache
+C:\Users\Leandro\Desktop\projMedicamento\projMedicamento\bin\Debug\netcoreapp3.1\projMedicamento.exe
+C:\Users\Leandro\Desktop\projMedicamento\projMedicamento\bin\Debug\netcoreapp3.1\projMedicamento.deps.json
+C:\Users\Leandro\Desktop\projMedicamento\projMedicamento\bin\Debug\netcoreapp3.1\projMedicamento.runtimeconfig.json
+C:\Users\Leandro\Desktop\projMedicamento\projMedicamento\bin\Debug\netcoreapp3.1\projMedicamento.runtimeconfig.dev.json
+C:\Users\Leandro\Desktop\projMedicamento\projMedicamento\bin\Debug\netcoreapp3.1\projMedicamento.dll
+C:\Users\Leandro\Desktop\projMedicamento\projMedicamento\bin\Debug\netcoreapp3.1\projMedicamento.pdb
+C:\Users\Leandro\Desktop\projMedicamento\projMedicamento\obj\Debug\netcoreapp3.1\projMedicamento.csprojAssemblyReference.cache
+C:\Users\Leandro\Desktop\projMedicamento\projMedicamento\obj\Debug\netcoreapp3.1\projMedicamento.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\projMedicamento\projMedicamento\obj\Debug\netcoreapp3.1\projMedicamento.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\projMedicamento\projMedicamento\obj\Debug\netcoreapp3.1\projMedicamento.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\projMedicamento\projMedicamento\obj\Debug\netcoreapp3.1\projMedicamento.dll
+C:\Users\Leandro\Desktop\projMedicamento\projMedicamento\obj\Debug\netcoreapp3.1\projMedicamento.pdb
+C:\Users\Leandro\Desktop\projMedicamento\projMedicamento\obj\Debug\netcoreapp3.1\projMedicamento.genruntimeconfig.cache
